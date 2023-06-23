@@ -1,4 +1,4 @@
-<centre><img src="images/todo.svg"></centre>
+<centre><img src="images/todo.png"></centre>
 A straightforward web application, allowing you to save your daily chores so you won't forget anything.
 <br>
 <br>
