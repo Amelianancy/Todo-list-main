@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-<centre><img src="images/todo"></centre>
+<centre><img src="images/todo.svg"></centre>
 A straightforward web application, allowing you to save your daily chores so you won't forget anything.
 <br>
 <br>
@@ -114,7 +113,3 @@ If you wish to contribute, we highly recommend following the guidelines mentione
 ```
    git merge upstream/main
 ```
-=======
-# Todo-list-main
-Helps in keeping track of events
->>>>>>> 2f5b777aa3ba43393b91fec032b3093fa5096c8a
